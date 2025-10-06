@@ -1,6 +1,0 @@
-version: v1.25.0
-ignore:
-  snyk:lic:golang:gopkg.in:retry.v1:LGPL-3.0:
-    - '*':
-        reason: 'This specific package and license combination has been reviewed and approved.'
-        expires: '2027-10-06T19:56:22.000Z' # Set an expiration date for policy review.
